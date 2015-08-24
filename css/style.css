@@ -58,6 +58,38 @@ body{
   height: 675px;
 }
 
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: normal;
+}
+.marketing .col-lg-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+#about-pic{
+	margin: 0 auto;
+}
+
+.new-background{
+	color: white;
+	background-color: #26405C;
+}
+
+.picture-padding{
+	margin: 50px 0;
+}
+
+.margin-center{
+	margin-top: 120px;
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
